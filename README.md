@@ -7,4 +7,4 @@ I’m trying to set up a UIPageViewController which can be scrolled back and for
 
 However, things fall apart when you set the transition style set to “.Scroll". Instead of immediately detecting whether it should or shouldn’t scroll, it scrolls based on the previous touch.
 
-http://stackoverflow.com/questions/28868818/uipageviewcontroller-not-as-responsive-when-using-scroll-transition-when-datas
+http://stackoverflow.com/questions/28868818/changing-uipageviewcontrollers-datasource-causes-touch-delay-only-with-the-sc
